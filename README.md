@@ -33,4 +33,4 @@ and keep digging when things stop making sense.
 
 ---
 
-The answers are usually in the details.
+*The answers are usually in the details.*
